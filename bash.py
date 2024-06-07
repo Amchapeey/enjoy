@@ -1,4 +1,4 @@
-# author : @modxashis
+# author : @chapeey
 # -*- coding: utf-8 -*-
 
 import os
@@ -28,7 +28,7 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}YT : 🐲Cʜᴀᴘᴇᴇφ©ᵉⁿʲᵒᵠ🐉
+   HZM            MMMM    {}Coded by {}: @𝙘𝙝𝙖𝙥𝙚𝙚𝙮
 {}   FqM            MMM {}TG{}: {}TG : @chapeey
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
