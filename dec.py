@@ -18,7 +18,7 @@ logo = """
  \033[1;33m                        __/ | |                 
  \033[1;33m                       |___/|_|                 
  \033[1;33m
- \033[1;36m    [\033[1;37m+\033[1;36m]\033[1;32m CREATED BY HTR-TECH (TAHMID RAYAT)
+ \033[1;36m    [\033[1;37m+\033[1;36m]\033[1;32m CREATED BY 𝐂𝐇𝐀𝐏𝐄𝐄𝐘-𝐓𝐄𝐂𝐇 (@𝙘𝙝𝙖𝙥𝙚𝙚𝙮)
 """
 banner = """
  {}[{}01{}]{} Decrypt Bash File
@@ -68,7 +68,7 @@ maintool = raw_input(G + " Select an option" + C + " > " + Y)
 if maintool == "1" or maintool == "01":
    decr()
 elif maintool == "2" or maintool == "02":
-   os.system("xdg-open https://github.com/htr-tech/")
-else:
+   os.system("xdg-open https://t.me/chapeey/")
+else
    print (W + "")
    print (C + "[" + R + " !" + C + "]" + Y + " Invalid input " + C + "[" + R + "!" + C + "]")
